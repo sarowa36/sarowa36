@@ -5,7 +5,7 @@ If you trying to check my repositories probably you have see unfinished projects
 - My Mail: cemal3635@gmail.com
 
 (Thats Repositories private btw)
-![resim](https://github.com/sarowa36/sarowa36/assets/68184072/0651e83d-5d6a-422d-a508-ed3787a50152)
+![resim](https://github.com/sarowa36/sarowa36/assets/68184072/13965ae4-9d2a-45bb-b8b4-de5e3982f380)
 
 <!--
 **sarowa36/sarowa36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
