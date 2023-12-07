@@ -1,6 +1,6 @@
 ### Hi there 👋 Im Cemal
 Im A Fullstack Developer and little bit lazy to improve my git profile.
-If you trying to check my repositories probably you have see unfinished projects bcz you know im lazy and i dont have time for this. 😄
+If you trying to check my repositories probably you have see unfinished projects bcz i dont have time for this. 😄
 - 🔭 I’m currently working on [Ecommerce](https://github.com/sarowa36/Ecommerce)
 - My Mail: cemal3635@gmail.com
 
